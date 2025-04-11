@@ -3,7 +3,7 @@ This repository holds and hosts all of the twine games from the Duke MaRRs Lab's
 
 All of the twine games themselves are organized in the above directories and then continuously published using a github workflow that automatically runs on commit. The pages (in this case, just this README ) are then published to github pages at the url `https://mvhudson-duke.github.io/drones-twines/`. This is a necessary step to make sure that github workflow succeeds, however.
 
-The individual twine games themselves will be at that URL + the html file's relative path. For convenience, I'll include all the publicly accessible links to the Twin Games below. 
+The individual twine games themselves will be at that URL + the html file's relative path. For convenience, I'll include all the publicly accessible links to the Twine Games below. 
 
 **Note:** these are the links that you would give people to play the twine games, not to access the files. To access those files, you'll need to go through the github repository itself. 
 
